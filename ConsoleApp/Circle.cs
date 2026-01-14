@@ -9,8 +9,7 @@ namespace ConsoleApp
     public class Circle : Shape
     {
         public double Radius;
-    }
-    public Circle(double radius)
+        public Circle(double radius)
         {
             Radius = radius;
         }
